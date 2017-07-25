@@ -1,0 +1,43 @@
+body{
+
+}
+#draw{
+
+}
+#draw #header{
+    text-align:center;
+    margin-top: 50px;
+    font-family: 黑体;
+}
+#draw #header p{
+    font-size: 20px;
+    display:block;
+}
+#draw #header div{
+    font-size: 13px;
+}
+#table{
+    font-size: 13px;
+    margin-top: 50px;
+}
+#table table{
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: grey;
+    margin-bottom: 80px;
+}
+#table tbody{
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+#table tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+TD {
+    FONT-SIZE: 12px;
+    TEXT-DECORATION: none;
+}

@@ -1,0 +1,46 @@
+#contact{
+    margin-bottom: 30px;
+}
+#title{
+    width: 872px;
+    background-color: white;
+    height: 34px;
+    border:solid 1px gainsboro;
+    margin-bottom: 70px;
+}
+#title img{
+    width: 70px;
+    height: 25px;
+    margin-top: 5px;
+    margin-left: 15px;
+}
+#heheda , #zheng p{
+    text-align:center;
+}
+#heheda p{
+    font-weight: bold;
+    font-family: 黑体;
+    font-size: 18px;
+}
+#zheng p{
+    font-family: 黑体;
+    font-size: 14px;
+}
+#zheng div{
+    border-bottom:dotted 1px black;
+    margin-bottom: 30px;
+}
+#zheng img{
+    margin-left: 40px;
+    width: 270px;
+    height: 360px;
+    float: left;
+    padding-right: 30px;
+}
+.clear { clear: both; }
+#fu{
+    margin-top: 40px;
+    font-family: 黑体;
+    font-size: 14px;
+    margin-bottom: 100px;
+}

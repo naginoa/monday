@@ -1,0 +1,23 @@
+#watch{
+    width: 874px;
+    overflow: hidden;
+    margin-top: 15px;
+}
+#watch h2{
+    width: 874px;
+    height: 30px;
+    line-height: 30px;
+    border-bottom: 1px solid #ddd;
+    font-size: 18px;
+    color: #1366ff;
+    font-weight: normal;
+    padding-bottom: 10px;
+    padding-left: 30px;
+}
+.text {
+    margin-top: 25px;
+    line-height: 26px;
+    font-size: 14px;
+    text-indent: 2em;
+    color: #5e5e5e;
+}
